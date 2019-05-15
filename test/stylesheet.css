@@ -1,0 +1,20 @@
+.selectTotal > p
+{
+	margin: 2px 0px;
+}
+
+#submit 
+{
+	margin: 8px 0px;
+}
+
+
+.blurThis
+{
+
+	display: inline;
+	margin:0px;
+	color: transparent;
+	text-shadow: 0 0 5px rgba(0,0,0,0.5);
+
+}
